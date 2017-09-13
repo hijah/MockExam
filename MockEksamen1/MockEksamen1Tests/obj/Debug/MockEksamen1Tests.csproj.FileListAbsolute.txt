@@ -1,0 +1,9 @@
+C:\Users\jacob\Desktop\Semester 3\MockEksamen1\MockEksamen1Tests\bin\Debug\MockEksamen1Tests.dll
+C:\Users\jacob\Desktop\Semester 3\MockEksamen1\MockEksamen1Tests\bin\Debug\MockEksamen1Tests.pdb
+C:\Users\jacob\Desktop\Semester 3\MockEksamen1\MockEksamen1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jacob\Desktop\Semester 3\MockEksamen1\MockEksamen1Tests\bin\Debug\MockEksamen1.dll
+C:\Users\jacob\Desktop\Semester 3\MockEksamen1\MockEksamen1Tests\bin\Debug\MockEksamen1.pdb
+C:\Users\jacob\Desktop\Semester 3\MockEksamen1\MockEksamen1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\jacob\Desktop\Semester 3\MockEksamen1\MockEksamen1Tests\obj\Debug\MockEksamen1Tests.csprojResolveAssemblyReference.cache
+C:\Users\jacob\Desktop\Semester 3\MockEksamen1\MockEksamen1Tests\obj\Debug\MockEksamen1Tests.dll
+C:\Users\jacob\Desktop\Semester 3\MockEksamen1\MockEksamen1Tests\obj\Debug\MockEksamen1Tests.pdb

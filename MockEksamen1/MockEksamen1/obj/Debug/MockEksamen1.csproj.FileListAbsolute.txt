@@ -1,0 +1,5 @@
+C:\Users\jacob\Desktop\Semester 3\MockEksamen1\MockEksamen1\bin\Debug\MockEksamen1.dll
+C:\Users\jacob\Desktop\Semester 3\MockEksamen1\MockEksamen1\bin\Debug\MockEksamen1.pdb
+C:\Users\jacob\Desktop\Semester 3\MockEksamen1\MockEksamen1\obj\Debug\MockEksamen1.csprojResolveAssemblyReference.cache
+C:\Users\jacob\Desktop\Semester 3\MockEksamen1\MockEksamen1\obj\Debug\MockEksamen1.dll
+C:\Users\jacob\Desktop\Semester 3\MockEksamen1\MockEksamen1\obj\Debug\MockEksamen1.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockEksamen1", "MockEksamen1\MockEksamen1.csproj", "{0993DEBB-E477-44C5-8168-D0B47861E714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockEksamen1Tests", "MockEksamen1Tests\MockEksamen1Tests.csproj", "{A96A9899-85FD-4005-B6FC-757B1F96D15D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0993DEBB-E477-44C5-8168-D0B47861E714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0993DEBB-E477-44C5-8168-D0B47861E714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0993DEBB-E477-44C5-8168-D0B47861E714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0993DEBB-E477-44C5-8168-D0B47861E714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96A9899-85FD-4005-B6FC-757B1F96D15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96A9899-85FD-4005-B6FC-757B1F96D15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96A9899-85FD-4005-B6FC-757B1F96D15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96A9899-85FD-4005-B6FC-757B1F96D15D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
